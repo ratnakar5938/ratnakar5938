@@ -6,5 +6,5 @@
  <br>The beautiful thing about learning is that nobody can take it away from you.</p>
 
   - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/ratnakar-sahoo-a78401135/)
-<img src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=radical ">     
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&theme=dark&hide_langs_below=1" />
+<img src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=radical ">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&hide=css,html&theme=tokyonight&layout=compact" />
