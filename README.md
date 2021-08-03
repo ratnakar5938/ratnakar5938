@@ -4,7 +4,7 @@
 <hr>
 <div align = "center"><h2> Hi, myself Ratnakar Sahoo </a><img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"></h2></div>
 
-<h3 align="center">  Programming Enthusiast | Graphic Designer    </h3>
+<h3 align="center">  Programming Enthusiast | Graphic Designer</h3>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ratnakar5938&theme=react-dark&hide_border=true&area=true)
 
@@ -12,7 +12,7 @@
   <p align="center"><em> This is ME, Ratnakar sahoo, a UnderGrad at <a href="https://www.nitrkl.ac.in/"> <b> NATIONAL INSTITUTE OF TECHNOLOGY </b>,ROURKELA  </a>.<br>
   A budding Full-Stack Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning new technology and exploring different fields <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
-.</em></p></div><br>
+</em></p></div><br>
 
 <div>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>Talking about Personal Stuffs...</b>
@@ -21,7 +21,7 @@
 - 🎯 Pursuing Chemical Engineering in NIT Rourkela
 - 🌱 Currently learning React, Datastructures and Algorithms & Flutter
 - 🤝 Willing to collaborate on projects
-- 💬 Ask me about communities, programming, web development and designing.
+- 💬 Ask me about communities, programming, web development and designing
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like the graphs going up😉
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
