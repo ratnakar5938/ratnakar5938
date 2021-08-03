@@ -11,14 +11,14 @@
 <div>
   <p align="center"><em> This is ME, Ratnakar sahoo, a UnderGrad at <a href="https://www.nitrkl.ac.in/"> <b> NATIONAL INSTITUTE OF TECHNOLOGY </b>,ROURKELA  </a>.<br>
   A budding Full-Stack Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
-  and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning nwe technology and exploring different feilds <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
+  and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning new technology and exploring different feilds <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
 .</em></p></div><br>
 
 <div>
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>Talking about Personal Stuffs...</b>
   </div>
 
-- 🔭 Pursuing Chemical Engineering in NIT Rourkela
+- 🎯 Pursuing Chemical Engineering in NIT Rourkela
 - 🌱 Currently learning React, Datastructures and Algorithms & Flutter
 - 🤝 Willing to collaborate on projects
 - 💬 Ask me about communities, programming, web development and designing.
