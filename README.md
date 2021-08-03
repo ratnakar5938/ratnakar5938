@@ -14,6 +14,10 @@
   and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning nwe technology and exploring different feilds <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
 .</em></p></div>
 
+<div>
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>Talking about Personal Stuffs...</b>
+  </div>
+
 - 🔭 Pursuing Chemical Engineering in NIT Rourkela
 - 🌱 Currently learning React, Datastructures and Algorithms & Flutter
 - 🤝 Willing to collaborate on projects
