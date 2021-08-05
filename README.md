@@ -6,17 +6,14 @@
 
 <h3 align="center">  Programming Enthusiast | Graphic Designer</h3>
 
-![](https://activity-graph.herokuapp.com/graph?username=ratnakar5938&theme=react-dark&hide_border=true&area=true)
-
 <div>
   <p align="center"><em> This is ME, Ratnakar sahoo, a UnderGrad at <a href="https://www.nitrkl.ac.in/"> <b> NATIONAL INSTITUTE OF TECHNOLOGY </b>,ROURKELA  </a>.<br>
   A budding Full-Stack Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
   and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning new technology and exploring different fields <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
 </em></p></div><br>
 
-<div>
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;<b>Talking about Personal Stuffs...</b>
-  </div>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Talking About Personal Stuff
 
 - 🎯 Pursuing Chemical Engineering in NIT Rourkela
 - 🌱 Currently learning React, Datastructures and Algorithms & Flutter
@@ -48,20 +45,23 @@
   [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ratnakar-sahoo-a78401135/)
   [<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/ratnakar5938)
   [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ratnakar5938/) 
-</div><br>
+</div>
 
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakar5938&theme=radical" alt="Ratnakar5938 Github Stats" />
-  </p>
-
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=radical ">
-</p>
-<p align='center'>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8" />
+## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> My Github Stats
+<br>
+<p align="center">
+    <a href="https://github.com/ratnakar5938/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ratnakar Sahoo's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakar5938&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
 
-<!-- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/ratnakar5938/count.svg" />
-</p> -->
+<div align="center">
+<br/>
+    <a href="https://github.com/ratnakar5938/github-readme-stats"><img alt="Ratnakar Sahoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ratnakar5938/github-readme-stats"><img alt="Ratnakar Sahoo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</div>
+<br><br>
 
+![](https://activity-graph.herokuapp.com/graph?username=ratnakar5938&theme=react-dark&hide_border=true&area=true)
