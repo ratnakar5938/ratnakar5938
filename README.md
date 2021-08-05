@@ -57,8 +57,8 @@
 
 <div align="center">
 <br/>
-    <a href="https://github.com/ratnakar5938/github-readme-stats"><img alt="Ratnakar Sahoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/ratnakar5938/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&hide=css,html&theme=react&hide_border=true&bg_color=0D1117&layout=compact"  width="420px"/></a>
+    <a href="https://github.com/ratnakar5938/github-readme-stats"><img alt="Ratnakar Sahoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="200px"/></a>
+  <a href="https://github.com/ratnakar5938/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&hide=css,html&theme=react&hide_border=true&bg_color=0D1117&layout=compact" height="200px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
