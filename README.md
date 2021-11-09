@@ -19,7 +19,7 @@
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Talking About Personal Stuff
 
 - 🎯 Pursuing Chemical Engineering in NIT Rourkela
-- 🌱 Currently learning React, Datastructures and Algorithms & Nodejs
+- 🌱 Currently learning React-Native, Datastructures and Algorithms, TypeScript & Nodejs
 - 🤝 Willing to collaborate on projects
 - 💬 Ask me about communities, programming, web development and designing
 - 😄 Pronouns: He/His
