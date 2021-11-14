@@ -68,3 +68,14 @@
 <br><br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ratnakar5938&theme=react-dark&hide_border=true&area=true)
+
+<!-- <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ratnakar5938/count.svg" />
+</p>
+ -->
+  <div align="center">
+ 
+ ### Show some ❤️ by starring some of the repositories!
+
+</div>
