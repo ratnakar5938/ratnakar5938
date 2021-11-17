@@ -18,6 +18,8 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Talking About Personal Stuff
 
+<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+
 - 🎯 Pursuing Chemical Engineering in NIT Rourkela
 - 🌱 Currently learning React-Native, Datastructures and Algorithms, TypeScript & Nodejs
 - 🤝 Willing to collaborate on projects
@@ -50,6 +52,8 @@
   [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ratnakar5938/) 
 </div>
 
+<!-- <details>
+<summary><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> My GitHub Stats</summary> -->
 ## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> My Github Stats
 <br>
 <p align="center">
@@ -62,13 +66,17 @@
 <br/>
     <a href="https://github.com/ratnakar5938/github-readme-stats"><img alt="Ratnakar Sahoo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="180px"/></a>
   <a href="https://github.com/ratnakar5938/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&hide=css,html&theme=react&hide_border=true&bg_color=0D1117&layout=compact" height="180px"/></a>
+<!--   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ratnakar5938&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />wi*quL3fcV<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnakar5938&hide=html&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </div>
-<br><br>
+<br>
+<!-- </details> -->
+<br>
 
 ![](https://activity-graph.herokuapp.com/graph?username=ratnakar5938&theme=react-dark&hide_border=true&area=true)
 
+<!-- [![ratnakar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ratnakar5938)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ratnakar5938/count.svg" />
