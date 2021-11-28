@@ -22,7 +22,7 @@
 
 - 🎯 Pursuing Chemical Engineering in NIT Rourkela
 - 🌱 Currently learning React-Native, Datastructures and Algorithms, TypeScript & Nodejs
-- 🤝 Willing to collaborate on projects
+- 🤝 Willing to collaborate on open-source projects, hackathons and internships.
 - 💬 Ask me about communities, programming, web development and designing
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I like the graphs going up😉
