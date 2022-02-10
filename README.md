@@ -20,7 +20,7 @@
 <img src="./Images/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 
 -   🎯 Pursuing Chemical Engineering in NIT Rourkela
--   🌱 Currently learning React-Native, Datastructures and Algorithms, TypeScript & Nodejs
+-   🌱 Currently learning Datastructures and Algorithms, TypeScript & Nodejs
 -   🤝 Willing to collaborate on open-source projects, hackathons and internships.
 -   💬 Ask me about communities, programming, web development and designing
 -   😄 Pronouns: He/His
