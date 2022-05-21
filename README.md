@@ -17,7 +17,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Talking About Personal Stuff
 
-<img src="./Images/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+<!-- <img src="./Images/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 
 -   🎯 Pursuing Chemical Engineering in NIT Rourkela
 -   🌱 Currently learning Datastructures and Algorithms, TypeScript & Nodejs
