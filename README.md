@@ -11,11 +11,11 @@
 
 <div>
   <p align="center"><em> This is ME, Ratnakar sahoo, a UnderGrad at <a href="https://www.nitrkl.ac.in/"> <b> NATIONAL INSTITUTE OF TECHNOLOGY </b>,ROURKELA  </a>.<br>
-  A budding Full-Stack Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="3px">
-  and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning new technology and exploring different fields <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> 
+  A budding Full-Stack Software Developer <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="3px" height="30px">
+  and Tech Enthusiast and passionate about Coding and Designing ,<br> and Obessed with learning new technology and exploring different fields <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px" height="18px"> 
 </em></p></div><br>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Talking About Personal Stuff
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="30px"> Talking About Personal Stuff
 
 <!-- <img src="./Images/life_balance.gif" alt="side Image" align="right" width="200" height="auto" /> -->
 
@@ -55,7 +55,7 @@
 <!-- <details>
 <summary><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> My GitHub Stats</summary> -->
 
-## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/> My Github Stats
+## <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" height="30px" alt="GitHub-Status"/> My Github Stats
 
 <br>
 <p align="center">
